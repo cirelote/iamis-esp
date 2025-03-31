@@ -1,0 +1,5 @@
+.pio
+.vscode/*
+README
+!README.md
+include/secrets.h
